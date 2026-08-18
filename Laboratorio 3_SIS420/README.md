@@ -3,8 +3,6 @@
 Trabajo práctico modificado a partir de los cuadernillos revisados en clase `05_reg_pol_01.ipynb` y
 `06_reg_pol_02.ipynb` (regresión polinómica).
 
-**Estudiante coordinador de dataset:** univ. Crismar Salazar Ramos (dataset registrado según lo solicitado
-para evitar repeticiones entre compañeros).
 
 ## Dataset
 
